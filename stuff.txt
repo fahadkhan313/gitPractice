@@ -1,3 +1,3 @@
 i am a random line 
 ignore me 
-i am added by branch 2
+i am added 
